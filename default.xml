@@ -787,12 +787,9 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
-<<<<<<< HEAD
 
   <include name="snippets/remove.xml" />
   <include name="snippets/bootleggers.xml" />
   <include name="snippets/lineage.xml" />
 
-=======
->>>>>>> android-10.0.0_r14
 </manifest>
